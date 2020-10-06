@@ -1,7 +1,7 @@
 {
   "name": "webpack-react-quickstart",
   "version": "0.0.1",
-  "description": "Learning how to use Webpack",
+  "description": "Webpack quick start with React",
   "main": "index.js",
   "repository": "https://github.com/jeffpalm/webpack-react-quickstart.git",
   "author": "Jeff Palmer",
@@ -11,7 +11,11 @@
     "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.11.5",
     "@babel/preset-react": "^7.10.4",
+    "@dialexa/eslint-config-dialexa": "^5.3.0",
+    "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",
+    "eslint": "^7.10.0",
+    "eslint-plugin-react": "^7.21.3",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"

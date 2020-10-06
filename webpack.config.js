@@ -1,4 +1,4 @@
-const path = require('path')
+const path = require('path');
 
 module.exports = {
   devServer: {
@@ -10,11 +10,11 @@ module.exports = {
     rules: [
       {
         test: /\.js$/,
-        use: "babel-loader"
+        use: 'babel-loader'
       }
     ]
   },
   output: {
     filename: 'bundle.js'
   }
-}
+};
