@@ -1,0 +1,8 @@
+{
+  "short_name": "Webpack React Quickstart",
+  "name": "Webpack React Quickstart",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
