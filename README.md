@@ -1,2 +1,2 @@
 ### Webpack Quickstart with React
-Learning how to use Webpack
+Creating my own React App template using Webpack
