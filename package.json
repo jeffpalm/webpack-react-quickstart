@@ -1,0 +1,26 @@
+{
+  "name": "webpack-react-quickstart",
+  "version": "0.0.1",
+  "description": "Learning how to use Webpack",
+  "main": "index.js",
+  "repository": "https://github.com/jeffpalm/webpack-react-quickstart.git",
+  "author": "Jeff Palmer",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --progress"
+  }
+}
